@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\zweli\OneDrive\Documents\Bsc Final Year\Semester 2\Assignments\Assignment 1\PROGRAMMING 732 ASSIGNMENT JAVA Desktop\Zwelabantu_Mashego_401910879\healthfirst-1.0-SNAPSHOT.jar</jar>
+  <outfile>C:\Users\zweli\OneDrive\Documents\Bsc Final Year\Semester 2\Assignments\Assignment 1\PROGRAMMING 732 ASSIGNMENT JAVA Desktop\Zwelabantu_Mashego_401910879\zwelabantu_mashego_pims.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://www.java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\zweli\OneDrive\Documents\NetBeansProjects\healthfirst\src\main\java\com\assignment\healthfirst\images\icon.ico</icon>
+  <singleInstance>
+    <mutexName>zwelabantu_mashego_401910879.exe</mutexName>
+    <windowTitle>zwelabantu_mashego_401910879.exe</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>com.assignment.healthfirst.ui.Loginfrm</mainClass>
+    <cp>./lib/*.jar</cp>
+  </classPath>
+  <jre>
+    <path>jre</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>8</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
