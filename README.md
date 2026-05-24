@@ -135,7 +135,7 @@ The system provides:
 
 ### Login not working
 
-* Confirm correct username/password
+* Confirm correct username/password(username=admin & password=admin for Admin and username=cashier & password=cashier for Cashier)
 * Check database connection
 
 
